@@ -1,0 +1,19 @@
+# Dados gerados pelo programa em tempo de execução (não versionar)
+banco_frases.json
+placar_duelo.json
+modelo_treinado.joblib
+graficos/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# NLTK baixa os corpora automaticamente na primeira execução
+nltk_data/
+
+# SO / editor
+.DS_Store
+.vscode/
+.idea/
